@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+sentence-transformers
+langchain
+langchain-community
+langchain_groq
+google-generativeai
+dataclasses
+faiss-cpu
+streamlit
+pillow
